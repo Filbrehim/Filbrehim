@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Filbrehim
 - 👀 I’m interested in 
-   * lua code (for my wow characters)
    * container training (for real life)
 - 🌱 I’m currently learning 
-   * nodejs
-   * way to handle container in AWS
+   * ways to handle container in AWS
+   * ways to handle CEPH's S3
 - 💞️ I’m looking to collaborate on ... (will see later)
 - 📫 How to reach me : use magic symbol around filbrehim, free and [ISO 3166 1][1] for france
 
